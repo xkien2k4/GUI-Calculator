@@ -42,7 +42,7 @@
 
 ##  Giao diện
 
-demo.png
+![UI](demo.png)
 
 ---
 
