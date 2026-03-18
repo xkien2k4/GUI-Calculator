@@ -64,7 +64,7 @@ pip install PyQt6
 ### 3. Chạy chương trình
 
 ```bash
-python app.py
+python main.py
 ```
 
 ---
@@ -72,9 +72,10 @@ python app.py
 ## 📁 Cấu trúc project
 
 ```
-calculator-pro/
-│── app.py          # File chính
+GUI-Calculator/
+│── mainmain.py          # File chính
 │── README.md       # Mô tả dự án
+│── demo.png        # Demo sản phẩm
 ```
 
 ---
